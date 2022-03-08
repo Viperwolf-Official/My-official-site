@@ -1,2 +1,3 @@
-# My-official-site
-This is my official website where people can find my projects and learn a little about me.
+©2022 viperwolf inc. All rights reserved.
+
+Please do not plagiarise! Any plagiarism found will be reported to GitHub. Thank you.
