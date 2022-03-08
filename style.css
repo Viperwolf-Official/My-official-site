@@ -1,0 +1,32 @@
+body {
+  background: black;
+}
+p {
+  color:white;
+
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color:white;
+}
+
+h2 {
+  font-weight: bold;
+  color:white;
+}
+
+b {
+  color: white;
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  color: White;
+}
+  
+div {
+  color:white;
+
+}
